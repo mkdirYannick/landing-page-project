@@ -108,6 +108,8 @@ button:hover {
     flex-direction: column;
     gap: 8px;
     padding: 75px 300px;
+    font-size: 24px;
+    color: #1F2937;
 }
 
 #name {
@@ -146,6 +148,7 @@ button:hover {
 .box_2 {
     flex-direction: column;
     padding: 75px 75px;
+    color: #1F2937;
 }
 
 #boxes {
